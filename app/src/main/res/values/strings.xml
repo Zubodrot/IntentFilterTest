@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Datetime(intenttest)</string>
+    <string name="b_date_text">Show date</string>
+    <string name="b_time_text">Show time</string>
+    <string name="tv_text">Choose option</string>
+    <string name="tv_date_text">Date in your System</string>
+    <string name="date_activity_eu">EU date</string>
+    <string name="date_activity_na">NA date</string>
+    <string name="tv_time_text">Time in your System</string>
+</resources>
